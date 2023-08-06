@@ -7131,7 +7131,7 @@ div[class*="col"]:nth-of-type(4n + 4) .trainer-item:hover {
   width: 200px;
   height: 30px;
   background: #e80000;
-  color: white;
+  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7151,16 +7151,16 @@ div[class*="col"]:nth-of-type(4n + 4) .trainer-item:hover {
   box-shadow: 0 15px 25px rgba(232, 0, 0, 0.2);
 }
 .plan-item:hover .plan-header p, .plan-item.active .plan-header p {
-  color: white;
+  
 }
 .plan-item:hover .plan-price-area .price-title, .plan-item.active .plan-price-area .price-title {
-  color: white;
+ 
 }
 .plan-item:hover .plan-list li, .plan-item.active .plan-list li {
-  color: white;
+
 }
 .plan-item:hover .plan-footer, .plan-item.active .plan-footer {
-  background-color: #e80000;
+ 
 }
 .plan-item:hover .plan-overlay, .plan-item.active .plan-overlay {
   opacity: 1;
